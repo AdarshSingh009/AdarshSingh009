@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Adarsh and I'm a reactjs developer ,from surat.<br><br>I am a React.js developer with 1 year of experience, passionate about learning new technologies and working towards becoming a full-stack developer. I enjoy exploring AI tools and experimenting with innovative solutions to enhance my skills and stay ahead in the tech world.</h2>
+<h2 align="left">Hi 👋! My name is Adarsh and I'm a reactjs developer ,from surat.<br><br>I am a React.js developer with 2 year of experience, passionate about learning new technologies and working towards becoming a full-stack developer. I enjoy exploring AI tools and experimenting with innovative solutions to enhance my skills and stay ahead in the tech world.</h2>
 
 ###
 
